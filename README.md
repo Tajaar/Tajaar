@@ -12,14 +12,14 @@
 
 
 ---
-
-<img align="right" alt="Coding" width="350" src="https://github.com/tajaar/tajaar/blob/main/assets/ai-assistant.gif?raw=true" />
-
 - 🔭 I’m currently working on **Pulmonary Nodule Detection with Deep Learning**
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**, **MONAI**, and **MedicalNet**
 - 💬 Ask me about **AI, ML, PyTorch, and Data Pipelines**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tajaar)
-- ⚡ Personal fact: I believe Time + Effort = Quality
+- ⚡ Personal fact: I believe **Time + Effort = Quality**
+
+<img align="right" width="350" alt="AI Assistant" src="https://github.com/tajaar/tajaar/blob/main/assets/ai-assistant.gif?raw=true" />
+
 
 ---
 
