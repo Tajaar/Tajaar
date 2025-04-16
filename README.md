@@ -7,13 +7,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Delivering+Scalable+AI+Solutions;Python+Developer+%7C+Data+Science+Enthusiast;Transforming+Data+into+Decisions;Crafting+Solutions+with+Purpose;Let's+Build+Smart,+Together." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Delivering+Scalable+AI+Solutions;Python+Developer+%7C+Data+Science+Enthusiast;Transforming+Data+into+Decisions;Crafting+Solutions+with+Purpose;Let's+Build+Smart,+Together." alt="Typing SVG" />
 </p>
 
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://www.flaticon.com/free-animated-icons/robot" />
+<img align="right" alt="Coding" width="350" src="https://github.com/tajaar/tajaar/blob/main/assets/ai-assistant.gif?raw=true" />
+
 - 🔭 I’m currently working on **Pulmonary Nodule Detection with Deep Learning**
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**, **MONAI**, and **MedicalNet**
 - 💬 Ask me about **AI, ML, PyTorch, and Data Pipelines**
